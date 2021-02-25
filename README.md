@@ -1,10 +1,10 @@
 # Supported Games
 ---------------------------
-Prison Life | Yes 
-Jailbreak  | Yes
-Arsenal | Yes
-BloxBurg | Yes
-Ragdoll Engine | Yes
+Prison Life
+Jailbreak 
+Arsenal 
+BloxBurg 
+Ragdoll Engine
 ----------------------------
 
 # More Games Coming Soon...
